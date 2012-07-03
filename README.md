@@ -8,9 +8,6 @@ A happy number is defined by the following process. Starting with any positive i
 
 More info: [http://en.wikipedia.org/wiki/Happy_number](http://en.wikipedia.org/wiki/Happy_number)
 
-Problem Description
--------------------
-
 # Example:
 	19:
 	9^2 + 1^2 = 82
